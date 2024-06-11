@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Krypton102019.github.io/mix-master",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
