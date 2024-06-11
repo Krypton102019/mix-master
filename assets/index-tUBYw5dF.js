@@ -192,7 +192,7 @@ Error generating stack: `+i.message+`
     color: var(--primary-500);
     text-transform: capitalize;
   }
-`,pk="/assets/not-found-CXuwvScn.svg",hk=()=>F.jsx(F.Fragment,{children:F.jsx(dk,{children:F.jsxs("div",{children:[F.jsx("img",{src:pk}),F.jsx("h3",{children:"Ohh!"}),F.jsx("p",{children:"We can't seem to find your page you are looking for"}),F.jsx(Tf,{to:"/",children:"Back to Home"})]})})}),mk=dr.div`
+`,pk="/mix-master/assets/not-found-CXuwvScn.svg",hk=()=>F.jsx(F.Fragment,{children:F.jsx(dk,{children:F.jsxs("div",{children:[F.jsx("img",{src:pk}),F.jsx("h3",{children:"Ohh!"}),F.jsx("p",{children:"We can't seem to find your page you are looking for"}),F.jsx(Tf,{to:"/",children:"Back to Home"})]})})}),mk=dr.div`
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 2rem;
